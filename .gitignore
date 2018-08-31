@@ -6,6 +6,8 @@
 # dependencies
 /node_modules
 
+utils/WeatherConditions.js
+
 # misc
 .env.local
 .env.development.local
