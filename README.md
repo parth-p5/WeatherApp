@@ -12,9 +12,9 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 
 ## Project
 
-*Clone this repository
-*Create account on [Dark Sky API](https://darksky.net/dev)
-*Import key from your Dark Sky API account to **utils/weatherAPIKey.js** file.
+* Clone this repository
+* Create account on [Dark Sky API](https://darksky.net/dev)
+* Import key from your Dark Sky API account to **utils/weatherAPIKey.js** file.
 
 ## For Android
 
