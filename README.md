@@ -16,11 +16,11 @@ Below you'll find information about performing common tasks. The most recent ver
 
 * [npm run android](#npm-run-android)
   * Connect android device and enable debugging through developer option.
-  * In expo Application application run and you can refresh application through expo.
+  * In expo Application your app run and you can refresh your app through expo.
  
 ## Build APK
 
 * Install expo package
-  * Add version in App.json file.
-  * Run >expo build:android command
+  * Add version in **App.json** file.
+  * Run **expo build:android** command
   * It will take some minutes and give one link where you can download apk file.
