@@ -37,7 +37,6 @@ const styles = StyleSheet.create({
 });
 
 const Weather = ({ weather, temperature }) => {
-  console.log('weather - ',weather, temperature);
   return (
     <View style={[
       styles.weatherContainer,
@@ -48,7 +47,7 @@ const Weather = ({ weather, temperature }) => {
           size={72} 
           name={weatherConditions[weather].icon} 
           color={'#fff'} />
-        <Text style={styles.tempText}>{temperature} &deg;</Text>
+        <Text style={styles.tempText}>{temperature} &#8451;</Text>
       </View>
       <View style={styles.bodyContainer}>
         <Text style={styles.title}>{weatherConditions[weather].title}</Text>
