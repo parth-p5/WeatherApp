@@ -23,4 +23,4 @@ Below you'll find information about performing common tasks. The most recent ver
 * Install expo package
   * Add version in **App.json** file.
   * Run **expo build:android** command
-  * It will take some minutes and give one link where you can download apk file.
+  * It will take some minutes and give one link, where you can download apk file.
