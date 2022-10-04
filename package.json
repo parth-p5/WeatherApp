@@ -19,7 +19,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "expo": "^33.0.6",
+    "expo": "^46.0.14",
     "googlemaps": "^1.12.0",
     "markerclustererplus": "^2.1.4",
     "react": "^16.8.6",
